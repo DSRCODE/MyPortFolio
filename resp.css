@@ -1,0 +1,442 @@
+@media screen and (max-width:349px) {
+    #main_page {
+        width: 1000px;
+    }
+    .navbar .logo{
+        height: 200px;
+        width: 200px;
+        margin-right: 100px;
+    }
+    hr{
+        margin-top: 140px;
+    }
+    li a {
+        font-size: 2rem;
+    }
+    h1 {
+        font-size: 70px;
+    }
+
+    h2 {
+        font-size: 70px;
+    }
+
+    p {
+        font-size: 50px;
+    }
+
+    #p {
+        font-size: 35px;
+    }
+
+    .sec-content {
+        margin-top: 300px;
+        margin-left: 30px;
+    }
+
+    .image img {
+        margin-right: 200px;
+    }
+
+    .heading h1 {
+        width: 1000px;
+    }
+
+    .project {
+        margin-left: 8rem;
+    }
+
+    .heading1 h1 {
+        width: 1000px;
+    }
+
+    #about {
+        width: 1000px;
+        height: 140rem;
+    }
+
+    .abt {
+        height: 50rem;
+        width: 50rem;
+    }
+
+    .abt img {
+        margin-left: 14rem;
+        height: 21rem;
+        width: 21rem;
+    }
+
+    .abt_h2 {
+        margin-left: 10rem;
+        font-size: 3rem;
+    }
+
+    .abt_p {
+        font-size: 2.5rem;
+    }
+
+    .abt_p1 {
+        font-size: 2.5rem;
+    }
+
+    .abt_exp .exp {
+        font-size: 2.5rem;
+    }
+
+    .abt_exp {
+        font-size: 2.5rem;
+    }
+
+    .knowing .knows {
+        font-size: 2.5rem;
+    }
+
+    .contact-links .fa {
+        margin-left: 60px;
+        font-size: 65px;
+    }
+
+    .abt_content {
+        height: 70rem;
+        width: 48rem;
+    }
+
+    #homepage .thankyou {
+        width: 1000px;
+    }
+}
+
+@media screen and (min-width: 350px) and (max-width: 399px){
+    #main_page {
+        width:1000px;
+
+    }
+    .navbar .logo{
+        height: 200px;
+        width: 200px;
+        margin-right: 100px;
+    }
+    hr{
+        margin-top: 140px;
+    }
+    li a {
+        font-size: 2rem;
+    }
+    h1 {
+        font-size: 70px;
+    }
+
+    h2 {
+        font-size: 70px;
+    }
+
+    p {
+        font-size: 50px;
+    }
+
+    #p {
+        font-size: 35px;
+    }
+
+    .sec-content {
+        margin-top: 300px;
+        margin-left: 30px;
+    }
+
+    .image img {
+        margin-right: 200px;
+    }
+
+    .heading h1 {
+        width: 1000px;
+        font-size: 50px;
+    }
+
+    .project {
+        margin-left: 8rem;
+    }
+
+    .heading1 h1 {
+        width: 1000px;
+        font-size: 50px
+    }
+
+    #about {
+        width: 1000px;
+        height: 140rem;
+    }
+
+    .abt {
+        height: 50rem;
+        width: 50rem;
+    }
+
+    .abt img {
+        margin-left: 14rem;
+        height: 21rem;
+        width: 21rem;
+    }
+
+    .abt_h2 {
+        margin-left: 10rem;
+        font-size: 3rem;
+    }
+
+    .abt_p {
+        font-size: 2.5rem;
+    }
+
+    .abt_p1 {
+        font-size: 2.5rem;
+    }
+
+    .abt_exp .exp {
+        font-size: 2.5rem;
+    }
+
+    .abt_exp {
+        font-size: 2.5rem;
+    }
+
+    .knowing .knows {
+        font-size: 2.5rem;
+    }
+
+    .contact-links .fa {
+        margin-left: 60px;
+        font-size: 65px;
+    }
+
+    .abt_content {
+        height: 70rem;
+        width: 48rem;
+    }
+
+    #homepage .thankyou {
+        width: 1000px;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 549px){
+
+    #main_page {
+        width:1000px;
+
+    }
+    .navbar .logo{
+        height: 200px;
+        width: 200px;
+        margin-right: 100px;
+    }
+    hr{
+        margin-top: 140px;
+    }
+    li a {
+        font-size: 2rem;
+    }
+    h1 {
+        font-size: 70px;
+    }
+
+    h2 {
+        font-size: 70px;
+    }
+
+    p {
+        font-size: 50px;
+    }
+
+    #p {
+        font-size: 35px;
+    }
+
+    .sec-content {
+        margin-top: 300px;
+        margin-left: 30px;
+    }
+
+    .image img {
+        margin-right: 200px;
+    }
+
+    .heading h1 {
+        width: 1000px;
+        font-size: 50px;
+    }
+
+    .project {
+        margin-left: 8rem;
+    }
+
+    .heading1 h1 {
+        width: 1000px;
+        font-size: 50px
+    }
+
+    #about {
+        width: 1000px;
+        height: 140rem;
+    }
+
+    .abt {
+        height: 50rem;
+        width: 50rem;
+    }
+
+    .abt img {
+        margin-left: 14rem;
+        height: 21rem;
+        width: 21rem;
+    }
+
+    .abt_h2 {
+        margin-left: 10rem;
+        font-size: 3rem;
+    }
+
+    .abt_p {
+        font-size: 2.5rem;
+    }
+
+    .abt_p1 {
+        font-size: 2.5rem;
+    }
+
+    .abt_exp .exp {
+        font-size: 2.5rem;
+    }
+
+    .abt_exp {
+        font-size: 2.5rem;
+    }
+
+    .knowing .knows {
+        font-size: 2.5rem;
+    }
+
+    .contact-links .fa {
+        margin-left: 60px;
+        font-size: 65px;
+    }
+
+    .abt_content {
+        height: 70rem;
+        width: 48rem;
+    }
+
+    #homepage .thankyou {
+        width: 1000px;
+    }
+}
+
+@media only screen and (min-width: 550px) and (max-width: 949px){
+
+    #main_page {
+        width:1000px;
+
+    }
+    .navbar .logo{
+        height: 200px;
+        width: 200px;
+        margin-right: 100px;
+    }
+    hr{
+        margin-top: 140px;
+    }
+    li a {
+        font-size: 2rem;
+    }
+    h1 {
+        font-size: 70px;
+    }
+
+    h2 {
+        font-size: 70px;
+    }
+
+    p {
+        font-size: 50px;
+    }
+
+    #p {
+        font-size: 35px;
+    }
+
+    .sec-content {
+        margin-top: 300px;
+        margin-left: 30px;
+    }
+
+    .image img {
+        margin-right: 200px;
+    }
+
+    .heading h1 {
+        width: 1000px;
+        font-size: 50px;
+    }
+
+    .project {
+        margin-left: 8rem;
+    }
+
+    .heading1 h1 {
+        width: 1000px;
+        font-size: 50px
+    }
+
+    #about {
+        width: 1000px;
+        height: 140rem;
+    }
+
+    .abt {
+        height: 50rem;
+        width: 50rem;
+    }
+
+    .abt img {
+        margin-left: 14rem;
+        height: 21rem;
+        width: 21rem;
+    }
+
+    .abt_h2 {
+        margin-left: 10rem;
+        font-size: 3rem;
+    }
+
+    .abt_p {
+        font-size: 2.5rem;
+    }
+
+    .abt_p1 {
+        font-size: 2.5rem;
+    }
+
+    .abt_exp .exp {
+        font-size: 2.5rem;
+    }
+
+    .abt_exp {
+        font-size: 2.5rem;
+    }
+
+    .knowing .knows {
+        font-size: 2.5rem;
+    }
+
+    .contact-links .fa {
+        margin-left: 60px;
+        font-size: 65px;
+    }
+
+    .abt_content {
+        height: 70rem;
+        width: 48rem;
+    }
+
+    #homepage .thankyou {
+        width: 1000px;
+    }
+}
